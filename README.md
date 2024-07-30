@@ -3,8 +3,8 @@
 ## Olá, meu nome é Otavio Duarte Sá 👋
 
 *  📅 Comecei em 03/2022
-*  👨‍💻 Estudando Desenvolvimento Web
-*  💻 Front-end
+*  👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
+*  💻 Full-Stack
 
 ### Tecnologias
 
